@@ -1,0 +1,25 @@
+Javascript Display Possibilities
+
+innerHTML - writing into an HTML element
+document.write()- for writing into the HTML output.
+window.alert()- for writing into an alert box
+console.log()- for writing into the browser console.
+
+To access an HTML element. Javascript can use document.getElementById(id) method. 
+The id attribute defines the HTML element. The innerHTML property defines the HTML content.
+
+Look at the examples in the code; output.html
+
+A Javascript program is a list of programming statements.
+
+Javascript Syntax
+Javascript syntax is the set of rules, how Javascript programs are constructed.
+ 
+ JS values
+JS syntax defines two types of values:
+- Fixed values ; literals
+NUmbers are wriitten with or without decimals.
+- variable values ; variables
+variables are used to store data values.
+JS uses the var keyword to declare variables.
+An equal sign is used to assign values to variables.
